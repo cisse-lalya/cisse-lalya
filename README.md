@@ -53,7 +53,7 @@ Currently based in Dakar, Senegal — open to relocation.
 - Configured automated workflows for alert triage and threat enrichment
 - Validated end-to-end readiness, from detection to forensic investigation
 
-### Wazuh × Claude MCP Integration — details
+### Wazuh × Claude MCP Integration(https://github.com/cisse-lalya/Wazuh-SIEM-Claude-Desktop-Conversational-SOC-via-MCP) — details
 
 - Built a conversational SOC assistant integrating Wazuh SIEM with Claude Desktop via the MCP protocol
 - Automated alert analysis, vulnerability detection, and security reporting in natural language
