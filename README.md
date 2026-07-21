@@ -40,7 +40,7 @@ Currently based in Dakar, Senegal — open to relocation.
 |---|---|---|
 | [Attack Simulation & Intrusion Detection Lab](https://github.com/cisse-lalya/Attack-Simulation-Intrusion-Detection-Lab-with-Suricata) | Docker-based lab (Kali, DVWA) simulating brute-force & Slow HTTP DoS | Tuned Suricata IDS rules for improved alert accuracy |
 | Full SOAR Platform Deployment | Wazuh, TheHive, Cortex, Shuffle, MISP, Suricata (Docker/VM) | End-to-end SOC pipeline from detection to forensics |
-| Wazuh × Claude MCP Integration | Conversational SOC via Claude Desktop + Wazuh SIEM (MCP protocol) | Natural-language alert analysis, vuln detection & Slack reporting |
+| Wazuh × Claude MCP Integration(https://github.com/cisse-lalya/Wazuh-SIEM-Claude-Desktop-Conversational-SOC-via-MCP) | Conversational SOC via Claude Desktop + Wazuh SIEM (MCP protocol) | Natural-language alert analysis, vuln detection & Slack reporting |
 
 ### [Attack Simulation & Intrusion Detection Lab](https://github.com/cisse-lalya/Attack-Simulation-Intrusion-Detection-Lab-with-Suricata) — details
 
