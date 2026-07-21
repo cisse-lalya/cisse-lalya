@@ -39,25 +39,26 @@ Currently based in Dakar, Senegal — open to relocation.
 | Project | Focus | Result |
 |---|---|---|
 | [Attack Simulation & Intrusion Detection Lab](https://github.com/cisse-lalya/Attack-Simulation-Intrusion-Detection-Lab-with-Suricata) | Docker-based lab (Kali, DVWA) simulating brute-force & Slow HTTP DoS | Tuned Suricata IDS rules for improved alert accuracy |
+| [Wazuh × Claude MCP Integration](https://github.com/cisse-lalya/Wazuh-SIEM-Claude-Desktop-Conversational-SOC-via-MCP) | Conversational SOC via Claude Desktop + Wazuh SIEM (MCP protocol) | Natural-language alert analysis, vuln detection & Slack reporting  |
 | Full SOAR Platform Deployment | Wazuh, TheHive, Cortex, Shuffle, MISP, Suricata (Docker/VM) | End-to-end SOC pipeline from detection to forensics |
-| Wazuh × Claude MCP Integration(https://github.com/cisse-lalya/Wazuh-SIEM-Claude-Desktop-Conversational-SOC-via-MCP) | Conversational SOC via Claude Desktop + Wazuh SIEM (MCP protocol) | Natural-language alert analysis, vuln detection & Slack reporting |
+
 
 ### [Attack Simulation & Intrusion Detection Lab](https://github.com/cisse-lalya/Attack-Simulation-Intrusion-Detection-Lab-with-Suricata) — details
 
 - Deployed a Docker-based environment (Kali, DVWA) to simulate and analyze brute-force and Slow HTTP DoS attacks
 - Tuned Suricata IDS rules to improve network traffic monitoring and alert accuracy
 
+### [Wazuh × Claude MCP Integration](https://github.com/cisse-lalya/Wazuh-SIEM-Claude-Desktop-Conversational-SOC-via-MCP) — details
+
+- Built a conversational SOC assistant integrating Wazuh SIEM with Claude Desktop via the MCP protocol
+- Automated alert analysis, vulnerability detection, and security reporting in natural language
+- Connected to Slack for real-time notifications
+
 ### Full SOAR Platform — details
 
 - Architected an integrated SOC infrastructure (Docker/VM) including Wazuh (SIEM), TheHive, Cortex, Shuffle (automation), MISP, and Suricata
 - Configured automated workflows for alert triage and threat enrichment
 - Validated end-to-end readiness, from detection to forensic investigation
-
-### Wazuh × Claude MCP Integration(https://github.com/cisse-lalya/Wazuh-SIEM-Claude-Desktop-Conversational-SOC-via-MCP) — details
-
-- Built a conversational SOC assistant integrating Wazuh SIEM with Claude Desktop via the MCP protocol
-- Automated alert analysis, vulnerability detection, and security reporting in natural language
-- Connected to Slack for real-time notifications
 
 ---
 
